@@ -1,6 +1,6 @@
 {
   "name": "filament/system-packages",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "System Packages widget: list all Composer packages in a Filament table",
   "type": "library",
   "license": "MIT",
