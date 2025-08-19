@@ -1,5 +1,5 @@
 {
-  "name": "filaforge/filament-system-packages"]*",
+  "name": "filaforge/filament-system-packages",
   "version": "0.1.0",
   "description": "System Packages widget: list all Composer packages in a Filament table",
   "type": "library",
